@@ -18,3 +18,5 @@ Ca y est je sais où est le probleme : je n'ai pas d'idées, et je m'enferme dan
 
 ## Idée 1
 Je vais juste faire un call api à data.gouv sur la meteo pour le moment, après je vais essayer de la visualiser
+Bon bah ca y est, même pas besoin d'ecrire une ligne de code, tout est en ligne...
+J'ai voulu utiliser d3JS pour visualiser, c'est galère à cause du cors, je suis pas méga chaud pour activer ca sur mon navigateur.
