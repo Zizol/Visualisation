@@ -15,3 +15,6 @@ La 3D avec blender ca va pas etre possible avec cet ordi.
 * Un simulateur de pandémie
 
 Ca y est je sais où est le probleme : je n'ai pas d'idées, et je m'enferme dans l'illusion que Yt m'en donnera.
+
+## Idée 1
+Je vais juste faire un call api à data.gouv sur la meteo pour le moment, après je vais essayer de la visualiser
